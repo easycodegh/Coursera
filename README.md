@@ -1,2 +1,2 @@
-# Elijah
+# Coursera
 Upload project files
